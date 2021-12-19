@@ -1,0 +1,2 @@
+com/azhar/tandatangan/BuildConfig.java
+ com.azhar.tandatangan.BuildConfig

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Asus\\Downloads\\TandaTangan\\UAS PEMOGRAMAN MOBILE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\wrapper\\dists\\gradle-7.2-bin\\caches\\transforms-3\\7b1d68872f45d66ac475906bc63c5228\\transformed\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
